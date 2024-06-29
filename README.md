@@ -1,4 +1,4 @@
-**RoboFriends**
+<h1>**RoboFriends** </h1>
 
 RoboFriends is a simple React application that displays a list of robot friends with a search functionality. The user interface is styled using Tachyons for quick and easy design.
 
