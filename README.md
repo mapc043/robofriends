@@ -4,13 +4,12 @@ RoboFriends is a simple React application that displays a list of robot friends 
 
 <h2>Installation </h2>
 
-Clone the repository and install the dependencies:
-
+Clone the repository and install the dependencies: <br>
 git clone https://github.com/your-username/robofriends.git <br>
 cd robofriends <br>
 npm install
 
 <h2>Usage</h2>
 
-Start the development server:
+Start the development server: <br>
 npm start
